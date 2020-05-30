@@ -1,0 +1,9 @@
+[package]
+name = "onkyo"
+version = "0.1.0"
+authors = ["Justin Harrison <me@justinharrison.ca>"]
+edition = "2018"
+
+[dependencies]
+libpulse-binding = "2.16"
+libpulse-simple-binding = "2.16"
